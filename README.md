@@ -1,6 +1,6 @@
 # iOS Settings URLS - Website
 
-https://github.com/Uvacoder/ios-settings-urls
+https://github.com/Uvacoder/ios-settings-urls2
 
 -----
 
