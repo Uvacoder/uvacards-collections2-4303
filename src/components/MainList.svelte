@@ -7,7 +7,7 @@
 	let list = [];
 	let params, promise;
 	async function reset(){
-		let request = await fetch('https://raw.githubusercontent.com/FifiTheBulldog/ios-settings-urls/master/settings-urls.md')
+		let request = await fetch('https://raw.githubusercontent.com/uvacoder/ios-settings-urls2/master/settings-urls.md')
 		let response = await request.text();
 		response = response.replace('# Settings URLs\n\n', '');
 		response = response.split('\n');
@@ -83,7 +83,7 @@ onMount(()=>{
 		{/await}
 	</div>
 	<br>
-	<p id="footer">© 2021 alombi - Developed and designed by alombi - URLs Collection by u/FifiTheBulldog</p>
+	<p id="footer">© 2022 uvacoder - Developed and designed by alombi - URLs Collection by u/FifiTheBulldog</p>
 </div>
 
 <style>
