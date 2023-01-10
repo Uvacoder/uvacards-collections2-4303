@@ -22,7 +22,7 @@
 </script>
 
 <div class="close_modal">
-   <a on:click={closeModal}><ion-icon name="close-circle"></ion-icon></a>
+   <a href on:click={closeModal}><ion-icon name="close-circle"></ion-icon></a>
 </div>
 <h1>{$url.key}</h1>
 <code id="url">{$url.value}</code>
