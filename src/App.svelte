@@ -40,11 +40,7 @@
 		font-size:50px;
 		font-weight:300;
 	}
-	h2{
-		font-size:40px;
-		font-weight:300;
-	}
-	.about_text p, h2{
+	.about_text p {
 		text-align: left;
 	}
 	.about_text{
