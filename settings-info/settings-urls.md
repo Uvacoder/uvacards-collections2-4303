@@ -14,4 +14,5 @@
 - Wi-Fi: `prefs:root=WIFI`
 - Coding → GitHub: `https://github.com/uvacoder`
 - Coding → Gists: `https://gist.github.com/Uvacoder`
-- Vercel: `[Vercel](https://vercel.com/uvacoder)`
+- Vercel: Vercel: [Vercel](https://vercel.com/uvacoder)
+- [Github](https://github.com/uvacoder)
