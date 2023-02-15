@@ -2,6 +2,9 @@
 
 https://github.com/Uvacoder/ios-settings-urls2
 
+<p align="center">
+  <img src="uvacards2.png" alt="Next.js and TypeScript">
+</p>
 -----
 
 
